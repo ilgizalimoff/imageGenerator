@@ -88,10 +88,6 @@ input:focus {
 }
 
 @media(max-width: 768px) {
-    .img {
-        width: 100%;
-    }
-
     .nav {
         justify-content: center;
     }
